@@ -19,7 +19,7 @@ Welcome to the backend repository of the Student Course Management System (SCMS)
 
 ### Installation
 
-1. Clone the repository: `git clone https://github.com/your-username/scms-backend.git`
+1. Clone the repository: `git clone https://github.com/ShadowSLayerryt/Back-End.git`
 2. Navigate to the project directory: `cd scms-backend`
 3. Install dependencies: `npm install`
 4. Set up environment variables (e.g., database connection string, JWT secret).
